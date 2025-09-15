@@ -1,0 +1,79 @@
+Q: What is VidyaSetu?
+A: VidyaSetu is an exciting gamified learning platform for rural school students of class 6th to 12th. It focuses on STEM learning, provides gamified learning resources, and connects teachers and students of the same school and class. Teachers can also track student progress here.
+
+Q: VidyaSetu क्या है?
+A: VidyaSetu ग्रामीण स्कूलों के 6वीं से 12वीं कक्षा के छात्रों के लिए एक रोमांचक गेमिफाइड लर्निंग प्लेटफ़ॉर्म है। यह STEM शिक्षा पर केंद्रित है, गेमिफाइड लर्निंग संसाधन प्रदान करता है और एक ही स्कूल व कक्षा के शिक्षक और छात्रों को जोड़ता है। शिक्षक यहाँ छात्रों की प्रगति को भी ट्रैक कर सकते हैं।
+
+Q: VidyaSetu କ'ଣ?
+A: VidyaSetu ଗ୍ରାମୀଣ ସ୍କୁଲର 6ରୁ 12 କ୍ଲାସ ପର୍ଯ୍ୟନ୍ତ ଛାତ୍ରଛାତ୍ରୀଙ୍କ ପାଇଁ ଗୋଟେ ରୋମାଞ୍ଚକର gamified learning platform ଅଟେ। ଏହା STEM ଶିକ୍ଷାରେ କେନ୍ଦ୍ରିତ, gamified learning resources ପ୍ରଦାନ କରେ ଓ ସେଇ ସ୍କୁଲ ଓ କ୍ଲାସର ଶିକ୍ଷକ-ଛାତ୍ରମାନଙ୍କୁ ସଂଯୋଗ କରେ। ଶିକ୍ଷକମାନେ ଏଠାରେ ଛାତ୍ରମାନଙ୍କର ପ୍ରଗତିକୁ ମଧ୍ୟ ଟ୍ରାକ୍ କରିପାରିବେ।
+
+
+
+Q: How do I log in as a student?
+A: Go to the welcome page, click "I’m a Student," and enter your email, password, school name, and class name.
+
+Q: मैं स्टूडेंट के रूप में कैसे लॉगिन करूँ?
+A: वेलकम पेज पर जाएँ, "I’m a Student" पर क्लिक करें और अपना ईमेल, पासवर्ड, स्कूल का नाम और क्लास का नाम डालें।
+
+Q: ମୁ student ଭାବରେ କେମିତି ଲଗଇନ୍ କରିବି?
+A: ସ୍ୱାଗତ ପୃଷ୍ଠାରେ "I’m a Student" କ୍ଲିକ୍ କରନ୍ତୁ ଓ ଇମେଲ୍, ପାସୱାର୍ଡ, ସ୍କୁଲ ନାମ ଓ କ୍ଲାସ ନାମ ପ୍ରବେଶ କରନ୍ତୁ।
+
+
+Q: How do I log in as a teacher?
+A: On the welcome page, click "I’m a Teacher," and enter your email, password, and school name.
+
+Q: मैं टीचर के रूप में कैसे लॉगिन करूँ?
+A: वेलकम पेज पर जाएँ, "I’m a Teacher" पर क्लिक करें और अपना ईमेल, पासवर्ड और स्कूल का नाम डालें।
+
+Q: ମୁ teacher ଭାବରେ କେମିତି ଲଗଇନ୍ କରିବି?
+A: ସ୍ୱାଗତ ପୃଷ୍ଠାରେ "I’m a Teacher" କ୍ଲିକ୍ କରନ୍ତୁ ଓ ଇମେଲ୍, ପାସୱାର୍ଡ ଓ ସ୍କୁଲ ନାମ ପ୍ରବେଶ କରନ୍ତୁ।
+
+
+Q: I forgot my password, what should I do?
+A: Click on "Forgot Password" on the login page to reset your password.
+
+Q: मैंने पासवर्ड भूल गया हूँ, मुझे क्या करना चाहिए?
+A: लॉगिन पेज पर "Forgot Password" पर क्लिक करें और पासवर्ड रीसेट करें।
+
+Q: ମୁ passwordୁଳି passwordୁଳି password, କଣ କରିବି?
+A: ଲଗଇନ୍ ପେଜରେ "Forgot Password" କ୍ଲିକ୍ କରନ୍ତୁ ଓ ପାସୱାର୍ଡ ପୁନ resୁ ସେଟ୍ କରନ୍ତୁ।
+
+
+Q: Which languages does the app support?
+A: Currently English, Hindi, and Odia.
+
+Q: ऐप किन भाषाओं को सपोर्ट करता है?
+A: अभी अंग्रेज़ी, हिंदी और उड़िया।
+
+Q: ଏହି ଆପ୍ କେଉଁ ଭାଷାକୁ ସମର୍ଥନ କରେ?
+A: ବର୍ତ୍ତମାନ ଇଂରାଜୀ, ହିନ୍ଦୀ ଓ ଓଡ଼ିଆ।
+
+
+Q: Can I use VidyaSetu offline?
+A: Yes, some features like cached lab simulations will work offline.
+
+Q: क्या VidyaSetu ऑफलाइन चल सकता है?
+A: हाँ, कुछ फीचर्स जैसे कैश्ड लैब सिमुलेशन ऑफलाइन भी चलेंगे।
+
+Q: VidyaSetu offline re chaliba ki?
+A: Haan, cached lab simulations offline re bhi chaliba।
+
+
+Q: How do I start a lab simulation?
+A: In the student dashboard, go to Lab Simulation, choose a subject, and click "Start Lab."
+
+Q: मैं लैब सिमुलेशन कैसे शुरू करूँ?
+A: स्टूडेंट डैशबोर्ड में "Lab Simulation" पर जाएँ, विषय चुनें और "Start Lab" पर क्लिक करें।
+
+Q: ମୁ lab simulation କେମିତି ଆରମ୍ଭ କରିବି?
+A: ଛାତ୍ର ଡ୍ୟାଶବୋର୍ଡରେ "Lab Simulation" କୁ ଯାଇ, ବିଷୟ ବାଛନ୍ତୁ ଓ "Start Lab" କ୍ଲିକ୍ କରନ୍ତୁ।
+
+
+Q: How do teachers see student analytics?
+A: Teachers can log in and check "Analytics" on their dashboard to view student performance.
+
+Q: टीचर स्टूडेंट एनालिटिक्स कैसे देख सकते हैं?
+A: टीचर लॉगिन करके अपने डैशबोर्ड में "Analytics" सेक्शन में स्टूडेंट परफॉरमेंस देख सकते हैं।
+
+Q: ଶିକ୍ଷକ student analytics କେମିତି ଦେଖିପାରିବେ?
+A: ଶିକ୍ଷକ ଲଗଇନ୍ କରି "Analytics" ବିଭାଗରେ ଛାତ୍ରଙ୍କର ପ୍ରଦର୍ଶନ ଦେଖିପାରିବେ।

@@ -1,0 +1,50 @@
+/* Latin / English */
+@font-face {
+  font-family: 'Noto Sans Local';
+  src: url('../fonts/NotoSans-Regular.ttf') format('truetype');
+  font-weight: 400;
+  unicode-range: U+0000-00FF, U+0100-024F; /* Latin set */
+}
+
+/* Hindi (Devanagari) */
+@font-face {
+  font-family: 'Noto Sans Local';
+  src: url('../fonts/NotoSansDevanagari-Regular.ttf') format('truetype');
+  font-weight: 400;
+  unicode-range: U+0900-097F; /* Devanagari block */
+}
+
+/* Odia (Oriya) */
+@font-face {
+  font-family: 'Noto Sans Local';
+  src: url('../fonts/NotoSansOriya-Regular.ttf') format('truetype');
+  font-weight: 400;
+  unicode-range: U+0B00-0B7F; /* Oriya block */
+}
+
+:root {
+  /* Colors */
+  --card-bg: #ECEEF0;
+  --main-bg: #CCD4DE;
+  --text: #323954;
+  --sidebar-bg: #3E53A0;
+  --accent-blue: #5A77DF;
+
+  --primary-bg: #283f8a;
+  --sidebar-link: #e5eaff;
+  --sidebar-link-hover: #fff4;
+  --card-radius: 19px;
+  --shadow: 0 2px 13px #aac4ee22;
+  --sidebar-radius: 0 20px 20px 0;
+  --accent-light: #e7eefd;
+  --profile-blue: #91a8ed;
+  --item: #cac8c8;
+
+
+  /* Fonts */
+  --font-ui: 'Noto Sans Local', system-ui, sans-serif;
+
+  /* Font weights */
+  --weight-regular: 400;
+  --weight-semibold: 600;
+}

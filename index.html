@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VidyaSetu</title>
+  <link rel="stylesheet" href="../css/global.css">
+  <link rel="stylesheet" href="../css/home.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+</head>
+
+<body>
+  <!-- Top Navbar -->
+  <header class="navbar">
+    <div class="logo">
+      <img src="../assets/img/logo.png" alt="VidyaSetu Logo">
+      <span class="logo-text">VidyaSetu</span>
+    </div>
+    <div class="nav-right">
+      <div class="lang"><i class="fas fa-globe"></i> EN <i class="fas fa-chevron-down"></i></div>
+      <div class="settings"><i class="fas fa-cog"></i> Settings</div>
+    </div>
+  </header>
+
+  <!-- Main Section -->
+  <main class="main">
+    <h1>Welcome to <span class="highlight">VidyaSetu</span></h1>
+    <p>A digital bridge connecting rural students and teachers through gamified STEM learning.<br>
+      Together, we make education more engaging, accessible, and impactful.</p>
+
+    <div class="login-buttons">
+      <a href="../teacher/login.html?role=teacher" target="_blank" class="teacher">
+        <i class="fas fa-chalkboard-teacher"></i>
+        <h3>I'm a Teacher</h3>
+        <p>Track Progress & Guide Students</p>
+      </a>
+      <a href="../student/student_login.html?role=student" target="_blank" class="student">
+        <i class="fas fa-user-graduate"></i>
+        <h3>I'm a Student</h3>
+        <p>Play, Learn & Earn Rewards</p>
+      </a>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>© VidyaSetu - Made for Smart India Hackathon 2025 by Team ShikshaVerse</p>
+  </footer>
+
+
+  <script>
+    (function () { if (!window.chatbase || window.chatbase("getState") !== "initialized") { window.chatbase = (...arguments) => { if (!window.chatbase.q) { window.chatbase.q = [] } window.chatbase.q.push(arguments) }; window.chatbase = new Proxy(window.chatbase, { get(target, prop) { if (prop === "q") { return target.q } return (...args) => target(prop, ...args) } }) } const onLoad = function () { const script = document.createElement("script"); script.src = "https://www.chatbase.co/embed.min.js"; script.id = "5z0ZfYbInr9jXrjecchcA"; script.domain = "www.chatbase.co"; document.body.appendChild(script) }; if (document.readyState === "complete") { onLoad() } else { window.addEventListener("load", onLoad) } })();
+  </script>
+
+</body>
+
+</html>

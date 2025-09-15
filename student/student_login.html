@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Login | VidyaSetu</title>
+  <link rel="stylesheet" href="../css/global.css">
+  <link rel="stylesheet" href="../css/student_login.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+</head>
+<body>
+  <!-- Top Navbar -->
+  <header class="navbar">
+    <div class="logo">
+      <img src="../assets/img/logo.png" alt="VidyaSetu Logo">
+      <span class="logo-text">VidyaSetu</span>
+    </div>
+    <div class="nav-right">
+      <div class="lang"><i class="fas fa-globe"></i> EN <i class="fas fa-chevron-down"></i></div>
+      <div class="settings"><i class="fas fa-cog"></i> Settings</div>
+    </div>
+  </header>
+
+  <!-- Main Section -->
+  <main class="main">
+    <h1>Welcome, Student 🎓</h1>
+    <p>Sign in to start learning and earning rewards, or create an account to begin your journey</p>
+    <!-- Login / SignUp Buttons -->
+     <div class="form-section">
+    <div class="toggle-buttons">
+  <button id="loginBtn" class="active" type="button">Login</button>
+  <button id="signupBtn" type="button">Sign Up</button>
+</div>
+
+<!-- Login Form -->
+<div id="loginForm" class="form-box">
+
+      <h2>Welcome Back!</h2>
+      <form>
+        <label>Email Address</label>
+        <input type="email" placeholder="Enter your email" required>
+
+        <label>Password</label>
+        <input type="password" placeholder="Enter your password" required>
+
+        <div class="form-options">
+           <label class="remember">
+    <input type="checkbox"> Remember me
+
+          
+          <a href="#">Forgot Password?</a>
+            </label>
+        </div>
+
+        <button type="submit" class="submit-btn">Login</button>
+      </form>
+    </div>
+
+    <!-- Sign Up Form -->
+<div id="signupForm" class="form-box hidden">
+  <h2>Join VidyaSetu</h2>
+  <form>
+    <div class="name-fields">
+      <div>
+        <label>First Name</label>
+        <input type="text" placeholder="First name" required>
+      </div>
+      <div>
+        <label>Last Name</label>
+        <input type="text" placeholder="Last name" required>
+      </div>
+    </div>
+
+     <!-- School Dropdown -->
+          <label for="school">School</label>
+          <select id="school" "name="school" required>
+            <option value="">-- Select School --</option>
+            <option value="Kendriya Vidyalaya, Koraput">Kendriya Vidyalaya, Koraput</option>
+            <option value="Government High School, Gajapati">Government High School, Gajapati</option>
+            <option value="Zilla Parishad High School, Rayagada">Zilla Parishad High School, Rayagada</option>
+            <option value="Upper Primary School, Malkangiri">Upper Primary School, Malkangiri</option>
+            <option value="Jawahar Navodaya Vidyalaya, Kandhamal">Jawahar Navodaya Vidyalaya, Kandhamal</option>
+            <option value="Government Girls High School, Mayurbhanj">Government Girls High School, Mayurbhanj</option>
+            <option value="Ashram School, Sundargarh">Ashram School, Sundargarh</option>
+            <option value="High School, Nuapada">High School, Nuapada</option>
+            <option value="Project Upper Primary School, Balangir">Project Upper Primary School, Balangir</option>
+            <option value="Tribal Residential School, Kalahandi">Tribal Residential School, Kalahandi</option>
+          </select>
+
+          <!-- Class Dropdown -->
+          <label for="class">Select Class:</label>
+          <select id="class" name="class" required>
+            <option value="">-- Select Class --</option>
+            <option value="Class 6">Class 6</option>
+            <option value="Class 7">Class 7</option>
+            <option value="Class 8">Class 8</option>
+            <option value="Class 9">Class 9</option>
+            <option value="Class 10">Class 10</option>
+            <option value="Class 11">Class 11</option>
+            <option value="Class 12">Class 12</option>
+          </select>
+
+
+    <label>Email Address</label>
+    <input type="email" placeholder="Enter your email" required>
+
+    <label>Password</label>
+    <input type="password" placeholder="Create a password" required>
+
+    <label>Confirm Password</label>
+    <input type="password" placeholder="Confirm your password" required>
+
+    <button type="submit" class="submit-btn">Sign Up</button>
+  </form>
+</div>
+  </div>
+
+  
+
+  </main>
+
+   <!-- Footer -->
+  <footer class="footer">
+    <p>© VidyaSetu - Made for Smart India Hackathon 2025 by Team ShikshaVerse</p>
+  </footer>
+
+ <script src="../js/teacher_login.js"></script>
+
+  <script>
+    (function () { if (!window.chatbase || window.chatbase("getState") !== "initialized") { window.chatbase = (...arguments) => { if (!window.chatbase.q) { window.chatbase.q = [] } window.chatbase.q.push(arguments) }; window.chatbase = new Proxy(window.chatbase, { get(target, prop) { if (prop === "q") { return target.q } return (...args) => target(prop, ...args) } }) } const onLoad = function () { const script = document.createElement("script"); script.src = "https://www.chatbase.co/embed.min.js"; script.id = "5z0ZfYbInr9jXrjecchcA"; script.domain = "www.chatbase.co"; document.body.appendChild(script) }; if (document.readyState === "complete") { onLoad() } else { window.addEventListener("load", onLoad) } })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,288 @@
+/* Reset and body */
+  body {
+    background: var(--main-bg);
+    font-family: var(--font-ui);
+    font-weight: var(--weight-semibold);
+    color: var(--text);
+    margin: 0;
+  }
+
+  /* Reset and basic */
+  * {
+    box-sizing: border-box;
+  }
+
+
+  a {
+    text-decoration: none;
+  }
+
+  /* Layout */
+  .container {
+    position: relative;
+    display: flex;
+    min-height: 100vh;
+  }
+
+  .sidebar,
+  aside.sidebar {
+    background: var(--sidebar-bg);
+
+    font-weight: var(--weight-semibold);
+    color: var(--card-bg);
+    width: 220px;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+    border-radius: var(--sidebar-radius);
+    display: flex;
+    flex-direction: column;
+    z-index: 2;
+  }
+
+  .sidebar-header,
+  aside .logo {
+    padding: 32px 0 16px 28px;
+    font-size: 24px;
+    letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo img {
+  width: 32px;
+  height: 32px;
+}
+
+.logo-text {
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--card-bg);
+}
+  
+
+  .sidebar-nav,
+  nav.menu {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+  }
+
+  .sidebar-nav a,
+  nav.menu a {
+    text-decoration: none;
+    color: var(--sidebar-link);
+    padding: 10px 11px 10px 10px;
+    margin: 2px 0px 2px 21px;
+    border-radius: 25px 0px 0px 25px;
+    font-size: 17px;
+    transition: background 0.16s;
+  }
+
+.sidebar-nav a.active,
+nav.menu a.active {
+  background: var(--main-bg);
+  color: var(--sidebar-bg);
+}
+
+.sidebar-nav a:hover,
+nav.menu a:hover {
+  background: var(--main-bg);
+  color: var(--sidebar-bg);
+}
+
+
+aside .profile {
+  box-shadow: 0 2px 6px gray;
+  background-color: var(--main-bg);
+  color: var(--sidebar-bg);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  margin: 150px 15px 15px 15px;
+  gap: 10px;
+  padding: 10px 16px;
+  cursor: pointer;
+  user-select: none;
+}
+
+aside .profile img {
+  background-color: white;
+  width: 48px;
+  height: 48px;
+  box-shadow: 0 2px 6px gray;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+aside .profile .profile-info {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.85rem;
+}
+
+aside .profile .profile-info strong {
+  font-weight: 700;
+  text-wrap: nowrap;
+  font-size: 1.05rem;
+  line-height: 1.1;
+}
+/* Content */
+.content {
+  flex-grow: 1;
+  padding: 24px 32px 40px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-top: -4px;
+  margin-left: 220px;
+  padding: 32px 32px 32px 32px;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+    .section {
+background: var(--card-bg); /* bg-gray-300 */
+  padding: 20px;
+  border-radius: 14px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 6px gray;
+    }
+
+
+    .header h1 {
+  padding-left: 6px;
+  margin-top: 2px;
+  margin-bottom: 1px;
+    font-weight: 900;
+    font-size: 1.6rem;
+    color: var(--text);
+}
+
+.header p{
+  color: var(--text);
+  padding-left: 7px;
+  margin-bottom: 0px;
+}
+
+
+    .section h3{
+        margin-top: 0;
+         padding-left: 6px;
+         margin-bottom: 6px;
+         font-weight: 900;
+    }
+
+    .subheading {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text);
+  margin: -5px 0 15px;
+  padding-left: 6px;
+}
+
+
+    /* Carousel */
+    .carousel {
+      display: flex;
+      overflow-x: auto;
+      scroll-behavior: smooth;
+      gap: 20px;
+      padding-bottom: 10px;
+    }
+  
+
+   .lab-card {
+    flex: 0 0 auto;
+  background: var(--main-bg);
+  border-radius: 10px;
+  padding: 20px;
+    
+  text-align: center;
+  box-shadow: 0px 0px 2px gray;
+  transition: box-shadow 0.3s ease;
+}
+
+.lab-card:hover{
+    
+box-shadow: 0 2px 6px var(--accent-blue);
+  cursor: pointer;
+}
+
+ .lab-card img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 6px;
+    }
+.lab-card h3 {
+  font-size: 1rem;
+  margin-top: 12px;
+  margin-bottom: 15px;
+}
+
+.lab-card p {
+  font-size: 0.8rem;
+  margin-bottom: 12px;
+  color: var(--text);
+}
+
+.lab-card button {
+  width: 100%;  /* full width */
+  padding: 12px 0;
+  border: none;
+  border-radius: 8px;
+  background: var(--accent-blue);
+  color: var(--card-bg);
+  margin-bottom: 0px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.lab-card button:hover {
+  background: var(--sidebar-bg);
+}
+
+/* Popup Modal Fullscreen */
+.modal {
+  display: none; 
+  position: fixed; 
+  z-index: 1000; 
+  left: 0; 
+  top: 0;
+  width: 100%; 
+  height: 100%; 
+  background: rgba(0,0,0,0.9); /* darker backdrop for fullscreen */
+}
+
+.modal-content {
+  position: relative;
+  margin: 0;        /* remove margins */
+  width: 100%;      /* full width */
+  height: 100%;     /* full height */
+  border-radius: 0; /* remove rounded corners */
+  padding: 0;       /* no padding */
+}
+
+.modal-content iframe {
+  width: 100%;
+  height: 100%; /* iframe takes full modal height */
+  border: none;
+  border-radius: 0;
+}
+.close {
+  position: absolute;
+  top: 15px;
+  right: 25px;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+  z-index: 1100;
+}

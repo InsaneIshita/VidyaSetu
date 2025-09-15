@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Courses-VidyaSetu</title>
+  <link rel="stylesheet" href="../css/global.css"/>
+  <link rel="stylesheet" href="../css/student_my_courses.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="container">
+    <aside class="sidebar" role="navigation" aria-label="Sidebar menu">
+      <div class="logo">
+        <img src="../assets/img/logo.png" alt="VidyaSetu Logo">
+        <span class="logo-text">VidyaSetu</span>
+      </div>
+      <nav class="menu" aria-label="Primary">
+        <a href="student_dashboard.html"><i class="fas fa-home" aria-hidden="true"></i> Home</a>
+        <a class="active" href="student_my_courses.html"><i class="fas fa-book" aria-hidden="true"></i> My Courses</a>
+        <a href="lab_simulation.html"><i class="fas fa-vials" aria-hidden="true"></i> Lab Simulations</a>
+        <a href="#"><i class="fas fa-robot" aria-hidden="true"></i> VidyaSetu AI</a>
+        <a href="#"><i class="fas fa-question-circle" aria-hidden="true"></i> Doubts</a>
+        <a href="#"><i class="fas fa-tasks" aria-hidden="true"></i> Assignments</a>
+        <a href="#"><i class="fas fa-bullhorn" aria-hidden="true"></i> Announcement</a>
+        <a href="#" id="settingsBtn"><i class="fas fa-cog" aria-hidden="true"></i> Settings</a>
+      </nav>
+
+      <div class="profile" role="button" aria-pressed="false" aria-label="Edit Profile">
+        <img src="..\assets\img\student_profile.webp" alt="Student's profile icon"
+          onerror="this.style.display='none';" />
+        <div class="profile-info">
+          <strong>Tanya Verma</strong>
+          <span>Edit Profile</span>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="content">
+      
+      <!-- Courses Section -->
+      <section class="courses">
+        <h2>My Courses</h2>
+        <p>Track your learning progress across all subjects</p>
+
+       <div class="courses-grid">
+
+  <!-- Mathematics -->
+  <div class="course-card border-blue">
+    <div class="course-header">
+      <i class="fas fa-chart-line icon"></i>
+      <div>
+        <h3>Mathematics</h3>
+        <p>Class 9A • Mr. Rajib Kumar</p>
+        <div class="meta">
+       <span><i class="fas fa-clock"></i> 24 lessons</span>
+          <span><i class="fas fa-star"></i> 4.8/5</span>
+        </div>
+      </div>
+    </div>
+    <div class="progress-info">
+      <span>Progress: 70%</span>
+      <span>17/24 lessons completed</span>
+    </div>
+    <div class="progress"><div class="progress-bar blue" style="width:70%"></div></div>
+
+    <div class="actions">
+      <button class="btn-primary">Continue Learning</button>
+      <button class="btn-secondary">View Details</button>
+    </div>
+  </div>
+
+  <!-- English Literature -->
+  <div class="course-card border-blue">
+    <div class="course-header">
+      <i class="fas fa-book icon"></i>
+      <div>
+        <h3>English</h3>
+        <p>Class 9A • Ms. Sunita Devi</p>
+        <div class="meta">
+          <span><i class="fas fa-clock"></i> 20 lessons</span>
+          <span><i class="fas fa-star"></i> 4.9/5</span>
+        </div>
+      </div>
+    </div>
+    <div class="progress-info">
+      <span>Progress: 85%</span>
+      <span>17/20 lessons completed</span>
+    </div>
+    <div class="progress"><div class="progress-bar blue" style="width:85%"></div></div>
+
+    <div class="actions">
+      <button class="btn-primary">Continue Learning</button>
+      <button class="btn-secondary">View Details</button>
+    </div>
+  </div>
+
+  <!-- Science -->
+  <div class="course-card border-blue">
+    <div class="course-header">
+      <i class="fas fa-flask icon"></i>
+      <div>
+        <h3>Science</h3>
+        <p>Class 9A • Dr. Amit Singh</p>
+        <div class="meta">
+          <span><i class="fas fa-clock"></i> 30 lessons</span>
+          <span><i class="fas fa-star"></i> 4.7/5</span>
+        </div>
+      </div>
+    </div>
+    <div class="progress-info">
+      <span>Progress: 40%</span>
+      <span>12/30 lessons completed</span>
+    </div>
+   <div class="progress"><div class="progress-bar blue" style="width:40%"></div></div>
+
+    <div class="actions">
+      <button class="btn-primary">Continue Learning</button>
+      <button class="btn-secondary">View Details</button>
+    </div>
+  </div>
+
+  <!-- History -->
+  <div class="course-card border-blue">
+    <div class="course-header">
+      <i class="fas fa-laptop icon"></i>
+      <div>
+        <h3>Computer</h3>
+        <p>Class 9A • Mrs. Kavita Sharma</p>
+        <div class="meta">
+          <span><i class="fas fa-clock"></i> 18 lessons</span>
+          <span><i class="fas fa-star"></i> 4.6/5</span>
+        </div>
+      </div>
+    </div>
+    <div class="progress-info">
+      <span>Progress: 60%</span>
+      <span>11/18 lessons completed</span>
+    </div>
+<div class="progress"><div class="progress-bar blue" style="width:60%"></div></div>
+
+    <div class="actions">
+      <button class="btn-primary">Continue Learning</button>
+      <button class="btn-secondary">View Details</button>
+    </div>
+  </div>
+
+</div>
+
+      </section>
+    </main>
+  </div>
+
+  <script>
+    (function () { if (!window.chatbase || window.chatbase("getState") !== "initialized") { window.chatbase = (...arguments) => { if (!window.chatbase.q) { window.chatbase.q = [] } window.chatbase.q.push(arguments) }; window.chatbase = new Proxy(window.chatbase, { get(target, prop) { if (prop === "q") { return target.q } return (...args) => target(prop, ...args) } }) } const onLoad = function () { const script = document.createElement("script"); script.src = "https://www.chatbase.co/embed.min.js"; script.id = "5z0ZfYbInr9jXrjecchcA"; script.domain = "www.chatbase.co"; document.body.appendChild(script) }; if (document.readyState === "complete") { onLoad() } else { window.addEventListener("load", onLoad) } })();
+  </script>
+</body>
+</html>

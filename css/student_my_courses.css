@@ -1,0 +1,301 @@
+/* Reset and body */
+  body {
+    background: var(--main-bg);
+    font-family: var(--font-ui);
+    font-weight: var(--weight-semibold);
+    color: var(--text);
+    margin: 0;
+  }
+
+  /* Reset and basic */
+  * {
+    box-sizing: border-box;
+  }
+
+
+  a {
+    text-decoration: none;
+  }
+
+  /* Layout */
+  .container {
+    position: relative;
+    display: flex;
+    min-height: 100vh;
+  }
+
+  .sidebar,
+  aside.sidebar {
+    background: var(--sidebar-bg);
+
+    font-weight: var(--weight-semibold);
+    color: var(--card-bg);
+    width: 220px;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+    border-radius: var(--sidebar-radius);
+    display: flex;
+    flex-direction: column;
+    z-index: 2;
+  }
+
+  .sidebar-header,
+  aside .logo {
+    padding: 32px 0 16px 28px;
+    font-size: 24px;
+    letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo img {
+  width: 32px;
+  height: 32px;
+}
+
+.logo-text {
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--card-bg);
+}
+  
+
+  .sidebar-nav,
+  nav.menu {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+  }
+
+  .sidebar-nav a,
+  nav.menu a {
+    text-decoration: none;
+    color: var(--sidebar-link);
+    padding: 10px 11px 10px 10px;
+    margin: 2px 0px 2px 21px;
+    border-radius: 25px 0px 0px 25px;
+    font-size: 17px;
+    transition: background 0.16s;
+  }
+
+.sidebar-nav a.active,
+nav.menu a.active {
+  background: var(--main-bg);
+  color: var(--sidebar-bg);
+}
+
+.sidebar-nav a:hover,
+nav.menu a:hover {
+  background: var(--main-bg);
+  color: var(--sidebar-bg);
+}
+
+
+aside .profile {
+  box-shadow: 0 2px 6px gray;
+  background-color: var(--main-bg);
+  color: var(--sidebar-bg);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  margin: 150px 15px 15px 15px;
+  gap: 10px;
+  padding: 10px 16px;
+  cursor: pointer;
+  user-select: none;
+}
+
+aside .profile img {
+  background-color: white;
+  width: 48px;
+  height: 48px;
+  box-shadow: 0 2px 6px gray;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+aside .profile .profile-info {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.85rem;
+}
+
+aside .profile .profile-info strong {
+  font-weight: 700;
+  text-wrap: nowrap;
+  font-size: 1.05rem;
+  line-height: 1.1;
+}
+/* Content */
+.content {
+  flex-grow: 1;
+  padding: 24px 32px 40px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-top: -4px;
+  margin-left: 220px;
+  padding: 32px 32px 32px 32px;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+/* Courses Section header */
+.courses h2 {
+   padding-left: 6px;
+  margin-top: 2px;
+  margin-bottom: 1px;
+    font-weight: 900;
+    font-size: 1.6rem;
+    color: var(--text);
+}
+
+.courses p {
+  color: var(--text);
+  padding-left: 7px;
+  margin-bottom: 20px;
+}
+
+/* Grid: 2 columns like screenshot */
+.courses-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 26px;
+  align-items: start;
+}
+
+/* Course Card */
+.course-card {
+  background: var(--card-bg);
+  border-radius: 14px;
+  padding: 5px 18px 18px 18px;
+  box-shadow: 0px 2px 6px gray;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  border: 3px solid transparent;
+  min-height: 240px;                 /* ensures consistent card height */
+  justify-content: space-between;    /* pushes buttons down */
+}
+
+/* border color classes */
+
+
+/* Header row with icon + title */
+.course-header {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+}
+
+.course-header .icon {
+  font-size: 28px;
+  width: 56px;
+  height: 56px;
+  border-radius: 12px;
+  display: grid;
+  place-items: center;
+  background: #f3f4f6;
+}
+
+/* subtle tinted icon backgrounds per card */
+.border-blue   .icon { color: var(--card-bg); background:var(--accent-blue);  }
+
+.course-header h3 {
+  font-size: 1.1rem;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+
+.course-header p {
+  color: #6b7280;
+  margin-top: 1px;
+  padding-left: 0px;
+  font-size: 0.92rem;
+}
+
+/* Meta row (lessons + rating) under class+teacher */
+.course-header .meta {
+  display: flex;
+  gap: 18px;
+  font-size: 0.88rem;
+  color: var(--accent-blue);
+  margin-top: 6px;
+}
+
+.course-header .meta i { margin-right: 6px; color: var(--accent-blue); }
+
+/* Progress info (above the bar) */
+.progress-info {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.9rem;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+/* Progress bar */
+.progress {
+  background: var(--main-bg);
+  border-radius: 999px;
+  height: 10px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 100%;
+  border-radius: 999px;
+}
+
+/* fill colors (match border style) */
+.progress-bar.blue   { background: linear-gradient(90deg,#3b82f6,#10b981); }
+
+/* actions row */
+.actions {
+  display: flex;
+  gap: 12px;
+  margin-top: 6px;
+}
+
+.actions button {
+  flex: 0 0 180px;
+  padding: 10px 14px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+/* primary / secondary */
+.btn-primary {
+  background: var(--accent-blue);
+  color: var(--card-bg);
+  box-shadow: 0 6px 16px rgba(79,70,229,0.12);
+}
+
+.btn-primary:hover{
+  background-color: var(--sidebar-bg);
+}
+
+.btn-secondary {
+  background: var(--main-bg);
+  color: var(--text);
+  border: 1px solid rgba(11,18,32,0.03);
+}
+
+.btn-secondary:hover{
+  background-color: var(--accent-blue);
+  color: var(--card-bg);
+}
+
+/* small responsive tweaks */
+@media (max-width: 900px) {
+  .courses-grid { grid-template-columns: 1fr; }
+  .actions button { flex: 1; }
+}

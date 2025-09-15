@@ -1,0 +1,38 @@
+Q: How do I post an assignment?
+A: On the teacher dashboard, click "Assignments," then "New Assignment," select class, and post.
+
+Q: असाइनमेंट कैसे पोस्ट करूँ?
+A: टीचर डैशबोर्ड में "Assignments" पर क्लिक करें, फिर "New Assignment" चुनें और पोस्ट करें।
+
+Q: ମୁ assignment ପୋଷ୍ଟ କେମିତି କରିବି?
+A: ଶିକ୍ଷକ ଡ୍ୟାଶବୋର୍ଡରେ "Assignments" କ୍ଲିକ୍ କରନ୍ତୁ, "New Assignment" ବାଛନ୍ତୁ ଓ ପୋଷ୍ଟ କରନ୍ତୁ।
+
+
+Q: How do I see student responses?
+A: In the teacher dashboard, go to "Analytics" or "Assignments" to view submissions.
+
+Q: मैं स्टूडेंट रिस्पॉन्सेस कैसे देखूँ?
+A: टीचर डैशबोर्ड में "Analytics" या "Assignments" में जाकर उत्तर देख सकते हैं।
+
+Q: ଛାତ୍ରଙ୍କର response କେମିତି ଦେଖିବି?
+A: ଶିକ୍ଷକ ଡ୍ୟାଶବୋର୍ଡରେ "Analytics" ବା "Assignments" କୁ ଯାଇ ସବମିସନ୍ ଦେଖନ୍ତୁ।
+
+
+Q: Can I manage multiple classes?
+A: Yes, after sign up, you can select or add classes in your dashboard.
+
+Q: क्या मैं कई क्लासेज मैनेज कर सकता हूँ?
+A: हाँ, साइनअप के बाद आप क्लासेज़ चुन सकते हैं या जोड़ सकते हैं।
+
+Q: ମୁ multiple classes manage କରିପାରିବି କି?
+A: ହଁ, signup ପରେ ଆପଣ dashboard ରେ classes add କିମ୍ବା choose କରିପାରିବେ।
+
+
+Q: How can I see my class performance?
+A: You can see your overall class performance and also individual student performance in the "My Class" tab.
+
+Q: मैं अपनी क्लास का प्रदर्शन कैसे देखूँ?
+A: आप "My Class" टैब में पूरी क्लास का प्रदर्शन और हर स्टूडेंट का व्यक्तिगत प्रदर्शन देख सकते हैं।
+
+Q: ମୋ class performance କିପରି ଦେଖିବି?
+A: "My Class" ଟାବ୍‌ରେ ସମଗ୍ର କ୍ଲାସର ପ୍ରଦର୍ଶନ ଏବଂ ପ୍ରତ୍ୟେକ ଛାତ୍ରର ବ୍ୟକ୍ତିଗତ ପ୍ରଦର୍ଶନ ଦେଖିପାରିବେ।

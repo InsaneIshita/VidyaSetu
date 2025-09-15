@@ -1,0 +1,189 @@
+Q: How can I start a lab simulation?
+A: On your student dashboard, go to "Lab Simulations," select Physics, Chemistry, or Mathematics, and click "Start Lab."
+
+Q: मैं लैब सिमुलेशन कैसे शुरू करूँ?
+A: अपने स्टूडेंट डैशबोर्ड पर "Lab Simulations" जाएँ, विषय चुनें (भौतिकी, रसायनशास्त्र या गणित) और "Start Lab" पर क्लिक करें।
+
+Q: ମୁ lab simulation କେମିତି ଆରମ୍ଭ କରିବି?
+A: ଛାତ୍ର ଡ୍ୟାଶବୋର୍ଡରେ "Lab Simulations" କୁ ଯାଆନ୍ତୁ, Physics, Chemistry କିମ୍ବା Mathematics ବାଛନ୍ତୁ ଏବଂ "Start Lab" କ୍ଲିକ୍ କରନ୍ତୁ।
+
+
+Q: Can I use VidyaSetu offline?
+A: Yes, some parts are cached and can work offline, especially lab simulations.
+
+Q: क्या VidyaSetu ऑफ़लाइन चल सकता है?
+A: हाँ, कुछ हिस्से कैश्ड रहते हैं और ऑफ़लाइन भी चल सकते हैं, खासकर लैब सिमुलेशन।
+
+Q: VidyaSetu କ offline re upayoga କରି ପାରିବି କି?
+A: ହଁ, କିଛି ଅଂଶ cached ଅଛି ଏବଂ offline ରେ କାମ କରିପାରିବ, ବିଶେଷ କରି lab simulations।
+
+
+Q: How do I submit an assignment?
+A: In your student dashboard, click "Assignments," open your assignment, and upload or enter your response.
+
+Q: मैं असाइनमेंट कैसे सबमिट करूँ?
+A: अपने स्टूडेंट डैशबोर्ड पर "Assignments" क्लिक करें, असाइनमेंट खोलें और अपना उत्तर अपलोड या लिखें।
+
+Q: ମୁ assignment କେମିତି submit କରିବି?
+A: ଛାତ୍ର ଡ୍ୟାଶବୋର୍ଡରେ "Assignments" କ୍ଲିକ୍ କରନ୍ତୁ, assignment ଖୋଲନ୍ତୁ ଓ ଉତ୍ତର upload କିମ୍ବା ପ୍ରବେଶ କରନ୍ତୁ।
+
+
+Q: What is the AI chatbot for?
+A: It helps students ask quick questions about using the platform, labs, or assignments.
+
+Q: AI चैटबॉट किसके लिए है?
+A: यह छात्रों को प्लेटफ़ॉर्म, लैब या असाइनमेंट से जुड़े त्वरित प्रश्न पूछने में मदद करता है।
+
+Q: AI chatbot କ’ଣ ପାଇଁ?
+A: ଏହା ଛାତ୍ରମାନଙ୍କୁ platform, lab ବା assignment ସହଜ ପ୍ରଶ୍ନ ପଚାରିବାରେ ସାହାଯ୍ୟ କରେ।
+
+
+Q: How do I check my assignment grades?
+A: Go to "Assignments" and click on "Grades" to see marks and feedback from your teacher.
+
+Q: मैं अपने असाइनमेंट ग्रेड्स कैसे देखूँ?
+A: "Assignments" में जाकर "Grades" पर क्लिक करें और अपने शिक्षक की प्रतिक्रिया देखें।
+
+Q: ମୁ assignment grades କେମିତି ଦେଖିବି?
+A: "Assignments" କୁ ଯାଇ "Grades" କ୍ଲିକ୍ କରନ୍ତୁ ଏବଂ ଶିକ୍ଷକଙ୍କର feedback ଦେଖନ୍ତୁ।
+
+
+Q: Can I change my school or class after signup?
+A: No, you cannot change directly. Ask your teacher to update your details or contact support.
+
+Q: क्या मैं साइनअप के बाद अपना स्कूल या क्लास बदल सकता हूँ?
+A: नहीं, आप सीधे नहीं बदल सकते। अपने शिक्षक से बदलाव के लिए कहें या सपोर्ट से संपर्क करें।
+
+Q: signup ପରେ school ବା class ପରିବର୍ତ୍ତନ କରିପାରିବି କି?
+A: ନାହିଁ, ସିଧାସଳଖ କରି ପାରିବେ ନାହିଁ। ଶିକ୍ଷକଙ୍କୁ କହନ୍ତୁ କିମ୍ବା support ସହିତ ସମ୍ପର୍କ କରନ୍ତୁ।
+
+
+Q: How do I know if my teacher posted new homework?
+A: Notifications will appear on your dashboard when a new assignment is uploaded.
+
+Q: मुझे कैसे पता चलेगा कि शिक्षक ने नया होमवर्क डाला है?
+A: जब नया असाइनमेंट अपलोड होगा, तो आपके डैशबोर्ड पर नोटिफिकेशन दिखाई देगा।
+
+Q: କିପରି ଜାଣିବି ନୁଆ homework ଆସିଛି?
+A: ନୁଆ assignment upload ହେଲେ dashboard ରେ notification ଦେଖାଯିବ।
+
+
+Q: Can I reset my password?
+A: Yes, click on "Forgot Password" on the login page and follow the steps.
+
+Q: क्या मैं अपना पासवर्ड रीसेट कर सकता हूँ?
+A: हाँ, लॉगिन पेज पर "Forgot Password" क्लिक करें और स्टेप्स फॉलो करें।
+
+Q: Password reset କରିପାରିବି କି?
+A: ହଁ, login page ରେ "Forgot Password" କ୍ଲିକ୍ କରନ୍ତୁ ଓ steps ପାଳନ କରନ୍ତୁ।
+
+
+Q: Which languages can I use in VidyaSetu?
+A: Currently, you can use English, Hindi, and Odia.
+
+Q: VidyaSetu में कौन सी भाषाएँ उपलब्ध हैं?
+A: अभी आप अंग्रेज़ी, हिंदी और उड़िया का उपयोग कर सकते हैं।
+
+Q: VidyaSetu କେଉଁ ଭାଷା support କରେ?
+A: ବର୍ତ୍ତମାନ English, Hindi ଓ Odia।
+
+
+Q: How do I interact with my teacher?
+A: You can send messages or submit assignments. Teachers can reply or give feedback.
+
+Q: मैं अपने शिक्षक से कैसे जुड़ूँ?
+A: आप संदेश भेज सकते हैं या असाइनमेंट जमा कर सकते हैं। शिक्षक प्रतिक्रिया देंगे।
+
+Q: ମୁ teacher ସହିତ କିପରି interact କରିବି?
+A: ଆପଣ message ପଠାଇପାରିବେ କିମ୍ବା assignment submit କରିପାରିବେ।
+
+
+Q: Is VidyaSetu free for students?
+A: Yes, VidyaSetu is completely free for students.
+
+Q: क्या VidyaSetu छात्रों के लिए मुफ़्त है?
+A: हाँ, VidyaSetu छात्रों के लिए पूरी तरह मुफ़्त है।
+
+Q: VidyaSetu students ପାଇଁ free କି?
+A: ହଁ, VidyaSetu ପୂରାପୁରି free।
+
+
+Q: What devices can I use?
+A: You can access VidyaSetu on mobiles, tablets, or computers with internet.
+
+Q: मैं कौन से डिवाइस पर VidyaSetu चला सकता हूँ?
+A: आप मोबाइल, टैबलेट या इंटरनेट वाले कंप्यूटर पर चला सकते हैं।
+
+Q: VidyaSetu କେଉଁ device ରେ ବ୍ୟବହାର କରିପାରିବି?
+A: Mobile, tablet କିମ୍ବା internet computer।
+
+
+Q: My lab is not loading, what should I do?
+A: Check your internet, refresh the page, or try offline cached mode.
+
+Q: मेरी लैब नहीं खुल रही, क्या करूँ?
+A: इंटरनेट चेक करें, पेज रिफ्रेश करें, या ऑफ़लाइन कैश मोड ट्राई करें।
+
+Q: Lab load ହେଉନି, କଣ କରିବି?
+A: Internet check କରନ୍ତୁ, page refresh କରନ୍ତୁ, offline cached mode ଟ୍ରାଇ କରନ୍ତୁ।
+
+
+Q: Can I earn rewards or badges?
+A: Yes, you earn points, badges, and ranks by completing labs, quizzes, and assignments.
+
+Q: क्या मैं रिवॉर्ड या बैज कमा सकता हूँ?
+A: हाँ, लैब, क्विज़ और असाइनमेंट पूरी करने पर आपको पॉइंट्स, बैज और रैंक मिलते हैं।
+
+Q: Rewards କିମ୍ବା badges କମାଇପାରିବି କି?
+A: ହଁ, labs, quizzes, assignments ପୂରଣ କଲେ points, badges, ranks ମିଳିବ।
+
+
+Q: How can I redeem my points?
+A: After reaching a certain level of points, you can redeem them for coupons for snacks, stationery, or small treats in your school.
+
+Q: मैं अपने पॉइंट्स कैसे रिडीम करूँ?
+A: जब आपके पॉइंट्स एक स्तर पर पहुँचेंगे, तो आप उन्हें स्कूल में स्नैक्स, स्टेशनरी या अन्य चीज़ों के लिए कूपन में बदल सकते हैं।
+
+Q: Points କିପରି redeem କରିବି?
+A: ପ୍ରୟାପ୍ତ points ସଂଗ୍ରହ କଲେ, ସେଗୁଡ଼ିକୁ ସ୍କୁଲର snacks, stationery ପାଇଁ coupon ଭାବେ redeem କରିପାରିବେ।
+
+
+Q: How do I switch language?
+A: Use the language toggle on the welcome page to select English, Hindi, or Odia.
+
+Q: मैं भाषा कैसे बदलूँ?
+A: वेलकम पेज पर लैंग्वेज टॉगल का उपयोग करें और अंग्रेज़ी, हिंदी या उड़िया चुनें।
+
+Q: ମୁ language କିପରି ବଦଳାଇବି?
+A: Welcome page ରେ language toggle ବ୍ୟବହାର କରନ୍ତୁ।
+
+
+Q: What happens if I miss a deadline?
+A: Teacher can still view, but it may show late submission.
+
+Q: अगर मैं डेडलाइन मिस कर दूँ तो क्या होगा?
+A: शिक्षक देख पाएँगे, लेकिन यह लेट सबमिशन दिखा सकता है।
+
+Q: Deadline miss କଲେ କି ହେବ?
+A: ଶିକ୍ଷକ ଦେଖିପାରିବେ, କିନ୍ତୁ late submission ଦେଖାଇପାରେ।
+
+
+Q: Can I use VidyaSetu without logging in?
+A: No, login/signup is required to access labs, assignments, and analytics.
+
+Q: क्या बिना लॉगिन किए VidyaSetu का उपयोग कर सकता हूँ?
+A: नहीं, लैब, असाइनमेंट और एनालिटिक्स के लिए लॉगिन/साइनअप ज़रूरी है।
+
+Q: Login ବିନା VidyaSetu ବ୍ୟବହାର କରିପାରିବି କି?
+A: ନାହିଁ, login/signup ଆବଶ୍ୟକ।
+
+
+Q: How do I see my overall performance?
+A: Go to "Dashboard" → "Analytics" to see labs, assignments, and quizzes progress.
+
+Q: मैं अपनी कुल प्रगति कैसे देखूँ?
+A: "Dashboard" में "Analytics" सेक्शन खोलें और लैब, असाइनमेंट व क्विज़ की प्रगति देखें।
+
+Q: Overall performance କିପରି ଦେଖିବି?
+A: "Dashboard" ର "Analytics" କୁ ଯାଇ labs, assignments, quizzes progress ଦେଖନ୍ତୁ।
+

@@ -1,0 +1,231 @@
+/* Reset and body */
+  body {
+    background: var(--main-bg);
+    font-family: var(--font-ui);
+    font-weight: var(--weight-semibold);
+    color: var(--text);
+    margin: 0;
+  }
+
+  /* Reset and basic */
+  * {
+    box-sizing: border-box;
+  }
+
+
+  a {
+    text-decoration: none;
+  }
+
+  /* Layout */
+  .container {
+    position: relative;
+    display: flex;
+    min-height: 100vh;
+  }
+
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--sidebar-bg);
+   color: var(--card-bg);
+  padding: 10px 30px;
+  box-shadow: 0 2px 6px gray
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo img {
+  width: 32px;
+  height: 32px;
+}
+
+.logo-text {
+  font-size: 18px;
+  font-weight: bold;
+  color: var(--card-bg);
+}
+
+.nav-right {
+  display: flex;
+  gap: 20px;
+  font-size: 14px;
+  color: var(--card-bg);
+  align-items: center;
+}
+
+.nav-right i {
+  margin-right: 5px;
+}
+
+/* Main Section */
+.main {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.main h1 {
+  font-size: 32px;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.main p {
+  color: var(--text);
+  margin-bottom: 40px;
+}
+
+/* Toggle Buttons */
+.toggle-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.toggle-buttons button {
+  padding: 8px 20px;
+  border: none;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  background: var(--card-bg);
+  color: var(--sidebar-bg);
+}
+
+.toggle-buttons button.active {
+  background: var(--sidebar-bg);
+  color: var(--card-bg);
+}
+
+.toggle-buttons button:hover {
+  box-shadow: 0 2px 6px gray;
+}
+
+/* Form Box */
+.form-box {
+  background: var(--card-bg);
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px gray;
+  text-align: left;
+}
+
+.form-box h2 {
+  font-size: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.form-box label {
+  font-size: 13px;
+  font-weight: bold;
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.form-box input {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.form-box select {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  color: gray;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.form-options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-bottom: 15px;
+  font-size: 12px;
+}
+
+.remember {
+  margin-top: 10px;
+  width: 5%;
+  display: flex;
+  text-wrap: nowrap;
+  gap: 5px;
+}
+
+.form-options a {
+  display: flex;
+  color: #2563eb;
+  text-decoration: none;
+  width: 100%;
+  margin-left: 120px;
+  margin-top: px;
+  justify-content: space-between;
+}
+
+.form-options a:hover {
+  text-decoration: underline;
+}
+
+/* Submit Button */
+.submit-btn {
+  width: 100%;
+  padding: 10px;
+  background: var(--sidebar-bg);
+  color: var(--card-bg);
+  font-size: 14px;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.submit-btn:hover {
+  background: var(--primary-bg);
+}
+
+/* Hide/Show toggle */
+.hidden {
+  display: none;
+}
+
+/* Name fields side by side */
+.name-fields {
+  display: flex;
+  gap: 10px;
+}
+
+.name-fields div {
+  flex: 1;
+}
+
+/* Footer */
+.footer {
+  background-color: var(--sidebar-bg);
+  color: var(--card-bg);
+  text-align: center;
+  padding: 5px;
+  font-size: 12px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
