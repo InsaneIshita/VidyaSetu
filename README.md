@@ -72,14 +72,14 @@ Teachers gain powerful dashboards to monitor student progress, assign work, and 
 
 ## 📸 Screenshots  
 
-*(Add your screenshots folder here, e.g. `./assets/screenshots/`)*  
+- **https://github.com/InsaneIshita/VidyaSetu/tree/main/assets/screenshots
 
 ---
 
 ## 🚀 Deployment  
 
-- 🔗 **Live Prototype (Frontend Only):** vidya-setu-inky.vercel.app  
-- 📹 **Demo Video:** [GoogleDrive link here]  
+- 🔗 **Live Prototype (Frontend Only):** (https://vidya-setu-inky.vercel.app/)  
+- 📹 **Demo Video:** (https://drive.google.com/file/d/1rsUX_8uCq9DtdL0I1dQitOjsoy2e0bqI/view?usp=sharing)  
 
 ---
 
