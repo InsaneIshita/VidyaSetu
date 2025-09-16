@@ -72,7 +72,7 @@ Teachers gain powerful dashboards to monitor student progress, assign work, and 
 
 ## 📸 Screenshots  
 
-- **https://github.com/InsaneIshita/VidyaSetu/tree/main/assets/screenshots
+- https://github.com/InsaneIshita/VidyaSetu/tree/main/assets/screenshots
 
 ---
 
