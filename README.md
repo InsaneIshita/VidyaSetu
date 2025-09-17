@@ -71,17 +71,19 @@ Teachers gain powerful dashboards to monitor student progress, assign work, and 
 ---
 
 ## 📸 Screenshots 
-**Home Page** 
-<img width="1000" height="400" alt="home_page" src="https://github.com/user-attachments/assets/ca38ef11-2b43-46e7-bcea-721a115a51e6" />
 
-**Student Dashboard** 
-<img width="1903" height="872" alt="student_dashboard" src="https://github.com/user-attachments/assets/f6d2a0c3-5686-4728-b11f-0befb16f37e6" />
+**Home Page**  
+<img src="https://github.com/user-attachments/assets/851978ed-7d50-4702-bb68-e36fcabbaafa" width="800"/>
 
-**Teacher Dashboard** 
-<img width="1897" height="866" alt="teacher_dashboard" src="https://github.com/user-attachments/assets/f265ce61-78c3-4ea1-a8f7-9cbebc75c956" />
+**Student Dashboard**  
+<img src="https://github.com/user-attachments/assets/f6d2a0c3-5686-4728-b11f-0befb16f37e6" width="800"/>
 
-**Lab Simulations** 
-<img width="1915" height="884" alt="lab_simulation" src="https://github.com/user-attachments/assets/68aa1a99-fb6d-4a36-b029-33b74821a0ed" />
+**Teacher Dashboard**  
+<img src="https://github.com/user-attachments/assets/f265ce61-78c3-4ea1-a8f7-9cbebc75c956" width="800"/>
+
+**Lab Simulations**  
+<img src="https://github.com/user-attachments/assets/68aa1a99-fb6d-4a36-b029-33b74821a0ed" width="800"/>
+
 
 
 ---
