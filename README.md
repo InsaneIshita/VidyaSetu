@@ -70,10 +70,12 @@ Teachers gain powerful dashboards to monitor student progress, assign work, and 
 
 ---
 
-## 📸 Screenshots  
+## 📸 Screenshots 
 **Home Page** (https://github.com/InsaneIshita/VidyaSetu/blob/main/assets/screenshots/home_page.png)
 **Student Dashboard** (https://github.com/InsaneIshita/VidyaSetu/blob/main/assets/screenshots/student_dashboard.png)
+
 **Teacher Dashboard** (https://github.com/InsaneIshita/VidyaSetu/blob/main/assets/screenshots/teacher_dashboard.png)
+
 **Lab Simulations** (https://github.com/InsaneIshita/VidyaSetu/blob/main/assets/screenshots/lab_simulation.png)
 
 
