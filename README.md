@@ -74,15 +74,30 @@ Teachers gain powerful dashboards to monitor student progress, assign work, and 
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/851978ed-7d50-4702-bb68-e36fcabbaafa" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/f6d2a0c3-5686-4728-b11f-0befb16f37e6" width="45%"/>
-</p>
+## 📸 Screenshots
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f265ce61-78c3-4ea1-a8f7-9cbebc75c956" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/68aa1a99-fb6d-4a36-b029-33b74821a0ed" width="45%"/>
-</p>
+<div align="center">
+
+### 🏠 Home Page  
+<img src="https://github.com/user-attachments/assets/851978ed-7d50-4702-bb68-e36fcabbaafa" width="80%"/>
+
+---
+
+### 🎓 Student Dashboard  
+<img src="https://github.com/user-attachments/assets/f6d2a0c3-5686-4728-b11f-0befb16f37e6" width="80%"/>
+
+---
+
+### 👩‍🏫 Teacher Dashboard  
+<img src="https://github.com/user-attachments/assets/f265ce61-78c3-4ea1-a8f7-9cbebc75c956" width="80%"/>
+
+---
+
+### 🔬 Lab Simulations  
+<img src="https://github.com/user-attachments/assets/68aa1a99-fb6d-4a36-b029-33b74821a0ed" width="80%"/>
+
+</div>
+
 
 
 
