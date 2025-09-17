@@ -1,6 +1,7 @@
-<p align="center">
+ <h1 align="left">📖 VidyaSetu – Gamified Learning Platform for Rural Education</h1>
+  
   <img src="assets/screenshots/banner-min.png" alt="VidyaSetu Banner" width="100%"/>
-  <h1 align="center">📚 VidyaSetu – Gamified Learning Platform for Rural Education</h1>
+ 
 <p align="center"><i>A Smart India Hackathon 2025 Project by Team ShikshaVerse</i></p>
 </p>
   
@@ -79,17 +80,17 @@ Teachers gain powerful dashboards to monitor student progress, assign work, and 
 ### 🏠 Home Page  
 <img src="https://github.com/user-attachments/assets/851978ed-7d50-4702-bb68-e36fcabbaafa" width="80%"/>
 
----
+
 
 ### 🎓 Student Dashboard  
 <img src="https://github.com/user-attachments/assets/f6d2a0c3-5686-4728-b11f-0befb16f37e6" width="80%"/>
 
----
+
 
 ### 👩‍🏫 Teacher Dashboard  
 <img src="https://github.com/user-attachments/assets/f265ce61-78c3-4ea1-a8f7-9cbebc75c956" width="80%"/>
 
----
+
 
 ### 🔬 Lab Simulations  
 <img src="https://github.com/user-attachments/assets/68aa1a99-fb6d-4a36-b029-33b74821a0ed" width="80%"/>
