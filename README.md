@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="assets/screenshots/banner-min.png" alt="Banner" width="100%"/>
+  <img src="assets/banner.png" alt="VidyaSetu Banner" width="100%"/>
 </p>
 
-<div align="center">
-  <h1 style="margin-top: -80px;"># 📚 VidyaSetu – Gamified Learning Platform for Rural Education</h1>
-  <p style="margin-top: -10px;">*A Smart India Hackathon 2025 Project by Team ShikshaVerse*</p>
-</div>
+<h1 align="center">📚 VidyaSetu – Gamified Learning Platform for Rural Education</h1>
+<p align="center"><i>A Smart India Hackathon 2025 Project by Team ShikshaVerse</i></p>
+
   
 
   
