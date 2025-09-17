@@ -1,12 +1,8 @@
 <p align="center">
   <img src="assets/screenshots/banner-min.png" alt="VidyaSetu Banner" width="100%"/>
-</p>
-
-<h1 align="center">📚 VidyaSetu – Gamified Learning Platform for Rural Education</h1>
+  <h1 align="center">📚 VidyaSetu – Gamified Learning Platform for Rural Education</h1>
 <p align="center"><i>A Smart India Hackathon 2025 Project by Team ShikshaVerse</i></p>
-
-  
-
+</p>
   
 
 ---
