@@ -1,6 +1,14 @@
-# 📚 VidyaSetu – Gamified Learning Platform for Rural Education  
+<p align="center">
+  <img src="assets/screenshots/banner.png" alt="Banner" width="100%"/>
+</p>
 
-*A Smart India Hackathon 2025 Project by Team ShikshaVerse*  
+<div align="center">
+  <h1 style="margin-top: -80px;"># 📚 VidyaSetu – Gamified Learning Platform for Rural Education</h1>
+  <p style="margin-top: -10px;">*A Smart India Hackathon 2025 Project by Team ShikshaVerse*</p>
+</div>
+  
+
+  
 
 ---
 
@@ -71,11 +79,6 @@ Teachers gain powerful dashboards to monitor student progress, assign work, and 
 ---
 
 ## 📸 Screenshots 
-
-## 📸 Screenshots
-
-## 📸 Screenshots
-
 <div align="center">
 
 ### 🏠 Home Page  
