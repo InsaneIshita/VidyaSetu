@@ -72,7 +72,7 @@ Teachers gain powerful dashboards to monitor student progress, assign work, and 
 
 ## 📸 Screenshots 
 **Home Page** 
-<img width="1919" height="879" alt="home_page" src="https://github.com/user-attachments/assets/ca38ef11-2b43-46e7-bcea-721a115a51e6" />
+<img width="1000" height="400" alt="home_page" src="https://github.com/user-attachments/assets/ca38ef11-2b43-46e7-bcea-721a115a51e6" />
 
 **Student Dashboard** 
 <img width="1903" height="872" alt="student_dashboard" src="https://github.com/user-attachments/assets/f6d2a0c3-5686-4728-b11f-0befb16f37e6" />
