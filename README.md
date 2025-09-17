@@ -1,4 +1,4 @@
-<img width="1897" height="866" alt="teacher_dashboard" src="https://github.com/user-attachments/assets/093d4ef2-866c-4801-846b-77841a1c078a" /># 📚 VidyaSetu – Gamified Learning Platform for Rural Education  
+# 📚 VidyaSetu – Gamified Learning Platform for Rural Education  
 
 *A Smart India Hackathon 2025 Project by Team ShikshaVerse*  
 
