@@ -1,4 +1,4 @@
-# 📚 VidyaSetu – Gamified Learning Platform for Rural Education  
+<img width="1897" height="866" alt="teacher_dashboard" src="https://github.com/user-attachments/assets/093d4ef2-866c-4801-846b-77841a1c078a" /># 📚 VidyaSetu – Gamified Learning Platform for Rural Education  
 
 *A Smart India Hackathon 2025 Project by Team ShikshaVerse*  
 
@@ -71,19 +71,20 @@ Teachers gain powerful dashboards to monitor student progress, assign work, and 
 ---
 
 ## 📸 Screenshots 
-**Home Page** (https://github.com/InsaneIshita/VidyaSetu/blob/main/assets/screenshots/home_page.png)
+**Home Page** 
+<img width="1919" height="879" alt="home_page" src="https://github.com/user-attachments/assets/ca38ef11-2b43-46e7-bcea-721a115a51e6" />
 
-**Student Dashboard** (https://github.com/InsaneIshita/VidyaSetu/blob/main/assets/screenshots/student_dashboard.png)
+**Student Dashboard** 
+<img width="1903" height="872" alt="student_dashboard" src="https://github.com/user-attachments/assets/f6d2a0c3-5686-4728-b11f-0befb16f37e6" />
 
-**Teacher Dashboard** (https://github.com/InsaneIshita/VidyaSetu/blob/main/assets/screenshots/teacher_dashboard.png)
+**Teacher Dashboard** 
+<img width="1897" height="866" alt="teacher_dashboard" src="https://github.com/user-attachments/assets/f265ce61-78c3-4ea1-a8f7-9cbebc75c956" />
 
-**Lab Simulations** (https://github.com/InsaneIshita/VidyaSetu/blob/main/assets/screenshots/lab_simulation.png)
-
-
+**Lab Simulations** 
+<img width="1915" height="884" alt="lab_simulation" src="https://github.com/user-attachments/assets/68aa1a99-fb6d-4a36-b029-33b74821a0ed" />
 
 
 ---
-
 ## 🚀 Deployment  
 
 - 🔗 **Live Prototype (Frontend Only):** (https://vidya-setu-inky.vercel.app/)  
